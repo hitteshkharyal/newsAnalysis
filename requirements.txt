@@ -1,0 +1,6 @@
+fastapi
+uvicorn
+requests
+streamlit
+vaderSentiment
+streamlit-mic-recorder
